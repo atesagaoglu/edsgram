@@ -6,5 +6,5 @@ My slightly customized take on [Arno's Engram](https://github.com/binarybottle/e
 
 There is also a slightly modified alternative version:
 
-![base layout](./edsgram_alt.png.png)
+![base layout](./edsgram_alt.png)
 
