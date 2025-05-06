@@ -1,6 +1,6 @@
 // Arno's Engram keyboard layout v2.0 - https://engram.dev
 partial alphanumeric_keys
-xkb_symbols "edsgram"
+xkb_symbols "edsgram_alt"
 {
 	include "us(basic)"
 
